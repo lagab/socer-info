@@ -1,0 +1,31 @@
+{
+  "name": "soccer-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/dev339/soccer-info.git"
+  },
+  "keywords": [
+    "soccer",
+    "info",
+    "scrapper",
+    "web"
+  ],
+  "author": "ladislas GABRIEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/dev339/soccer-info/issues"
+  },
+  "homepage": "https://gitlab.com/dev339/soccer-info#readme",
+  "dependencies": {
+    "dotenv": "^8.5.1",
+    "node-telegram-bot-api": "^0.53.0",
+    "puppeteer": "^9.0.0"
+  }
+}

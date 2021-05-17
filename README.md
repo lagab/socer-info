@@ -9,6 +9,4 @@ yarn && yarn start
 
 ## Configuration
 
-rename the file .env.init to .env file and edit the values
-BOT_TOKEN
-CHANEL_ID
+rename the file .env.local to .env file and edit the values BOT_TOKEN and CHANEL_ID
